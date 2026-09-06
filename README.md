@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center" width="280">
-        <img src="./assets/caffi-logo.png" width="72" alt="Caffi">
+        <img src="./assets/caffi-logo.webp" width="72" alt="Caffi">
         <br><br>
         <strong>Caffi</strong>
         <br>
