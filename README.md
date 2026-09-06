@@ -29,7 +29,7 @@
   <h2>Side Quests</h2>
 
   <p>
-    Small things I build, maintain, and occasionally overthink.
+    Personal projects I build and maintain outside of work.
   </p>
 
   <table>
